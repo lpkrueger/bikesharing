@@ -43,7 +43,6 @@ END
 ## Results
 The resulting Tableau viz named "NYC Story" depicts all the required metrics.    
 
-- Link to Tableau Story
 [Link to Tableau Story](https://public.tableau.com/views/bikesharing_challenge_16800688101830/NYCStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to Tableau Story")
 
 - Observations: 
